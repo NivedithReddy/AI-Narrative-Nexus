@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+nltk
+PyPDF2
+python-docx
+openpyxl
+wordcloud
+transformers
+spacy
+gensim
